@@ -4,14 +4,149 @@
     box-sizing: 0;
 }
 
-body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: orange;
-    font-size: 100px;
+header {
+    background-color: white;
+    color: black;
+    height: 80px;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+    border-bottom: 2px solid rgb(255, 136, 0);
 }
 
-p {
-    padding-top: 50vh;
+
+.nav_flex_components {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    height: 80px;    
 }
+#section-a {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+#logo_h {
+    color: rgb(255, 136, 0);
+}
+
+#logo_p {
+    font-size: 16px;
+}
+
+#section-b {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    padding-left: 20px;
+}
+
+#section-c {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 15%;
+    float: right;
+    padding-left: 80px;
+}
+
+#section-c > li > a > img {
+    height: 40px;
+}
+
+
+li {
+    list-style: none;
+}
+
+li > a {
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+
+li > a:hover {
+    text-decoration: underline;
+    color: rgb(255, 136, 0);
+    transition: all 0.3s ease;
+    font-size: 18px;    
+}
+
+#section_1 {
+    height: 100vh;
+}
+
+#image_container {
+    height: 100vh;
+    overflow-y: hidden;
+    position: relative;
+    
+}
+
+#image_container > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 90%;   
+}
+
+#container_title {
+    position: absolute;
+    top: 15%;
+    z-index: 1;
+    color: rgb(255, 255, 255);
+    font-size: 90px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+#about_dogs {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px solid rgb(255, 136, 0);
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+}
+
+#market_section_container {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+#dog_card {
+    width: 30%;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#image_sect {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    margin-bottom: 10px;
+    border-radius: 12px;
+}
+
+#image_sect >img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+
+
