@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name" : "Patrick",
+      "review": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+    },
+    {
+      "id": 2,
+      "name": "Earnest Achayo",
+      "review": "I came to Kenya from US one year ago. I was lonely for quite a while untill i founs my Chiwawa from this site. We enjoy every moment living as a family"          
+    },
+    {
+      "id": 3,
+      "name": "Ken Ndonga",
+      "review": "Good prices and chapchap delivery"          
+    },
+    {
+      "id": 1,
+      "name" : "King Anonimous",
+      "reviews": "My dog died 3 months ago due to accident caused by a careless drunk driver. I have been feeling sad since then. After going through this site, i am now a pride owner of Chiuwawa"          
+    },
+
+    {
+        "id": 1,
+        "name" : "James Heart",
+        "review": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      },
+      {
+        "id": 2,
+        "name": "Fredrick Oloo",
+        "review": "I came to Kenya from US one year ago. I was lonely for quite a while untill i founs my Chiwawa from this site. We enjoy every moment living as a family"          
+      },
+      {
+        "id": 3,
+        "name": "Michael Ruto",
+        "review": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot. I am looking forward to get the best mans frieng ever"          
+      },
+      {
+        "id": 1,
+        "name" : "Supercalifragilisticexpialidocous Guy",
+        "reviews": "My dog died 3 months ago due to accident caused by a careless drunk driver. I have been feeling sad since then. After going through this site, i am now a pride owner of Chiuwawa"          
+      },
+      {
+        "id": 1,
+        "name" : "Mr Bombastic",
+        "review": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      },
+      {
+        "id": 2,
+        "name": "Comrade Hero",
+        "review": "I came to Kenya from US one year ago. I was lonely for quite a while untill i founs my Chiwawa from this site. We enjoy every moment living as a family"          
+      },
+      {
+        "id": 3,
+        "name": "Cahayo Techlinks",
+        "review": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot. I am looking forward to get the best mans frieng ever"          
+      },
+      {
+        "id": 1,
+        "name" : "Bonified Venture",
+        "reviews": "My dog died 3 months ago due to accident caused by a careless drunk driver. I have been feeling sad since then. After going through this site, i am now a pride owner of Chiuwawa"          
+      }
+  
+      
+  ]
