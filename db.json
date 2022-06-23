@@ -1,0 +1,96 @@
+{
+    "dogs": [
+      {
+        "id": 1,
+        "image_url": "https://",
+        "breed": "Terrier Maltese",
+        "description": "A 3 year Old Maltese terrier well trained and master when it comes to security. Friendly to owners and likes walking around",
+        "location" : "Kisumu",
+        "price": "Kshs. 50,000",
+        "sellor_contact" : "0725486539",
+        "reviews": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      },
+      {
+        "id": 1,
+        "image_url": "https://",
+        "breed": "Chiwawa",
+        "description": "A 3 year Old Maltese terrier well trained and master when it comes to security. Friendly to owners and likes walking around",
+        "location" : "Kisumu",
+        "price": "Kshs. 25,000",
+        "sellor_contact" : "0725486539",
+        "reviews": "I came to Kenya from US one year ago. I was lonely for quite a while untill i founs my Chiwawa from this site. We enjoy every moment living as a family"          
+      },
+      {
+        "id": 1,
+        "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+        "breed": "Terrier Maltese",
+        "description": "A 3 year Old Maltese terrier well trained and master when it comes to security. Friendly to owners and likes walking around",
+        "location" : "Kisumu",
+        "price": "Kshs. 25,000",
+        "sellor_contact" : "0725486539",
+        "reviews": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      },
+      {
+        "id": 1,
+        "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+        "breed": "Terrier Maltese",
+        "description": "A 3 year Old Maltese terrier well trained and master when it comes to security. Friendly to owners and likes walking around",
+        "location" : "Kisumu",
+        "price": "Kshs. 25,000",
+        "sellor_contact" : "0725486539",
+        "reviews": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      },
+      {
+        "id": 1,
+        "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+        "breed": "Terrier Maltese",
+        "description": "A 3 year Old Maltese terrier well trained and master when it comes to security. Friendly to owners and likes walking around",
+        "location" : "Kisumu",
+        "price": "Kshs. 25,000",
+        "sellor_contact" : "0725486539",
+        "reviews": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      },
+      {
+        "id": 1,
+        "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+        "breed": "Terrier Maltese",
+        "description": "A 3 year Old Maltese terrier well trained and master when it comes to security. Friendly to owners and likes walking around",
+        "location" : "Kisumu",
+        "price": "Kshs. 25,000",
+        "sellor_contact" : "0725486539",
+        "reviews": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      },
+      {
+        "id": 1,
+        "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+        "breed": "Terrier Maltese",
+        "description": "A 3 year Old Maltese terrier well trained and master when it comes to security. Friendly to owners and likes walking around",
+        "location" : "Kisumu",
+        "price": "Kshs. 25,000",
+        "sellor_contact" : "0725486539",
+        "reviews": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      },
+      {
+        "id": 1,
+        "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+        "breed": "Terrier Maltese",
+        "description": "A 3 year Old Maltese terrier well trained and master when it comes to security. Friendly to owners and likes walking around",
+        "location" : "Kisumu",
+        "price": "Kshs. 25,000",
+        "sellor_contact" : "0725486539",
+        "reviews": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      },
+      {
+        "id": 1,
+        "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
+        "breed": "Terrier Maltese",
+        "description": "A 3 year Old Maltese terrier well trained and master when it comes to security. Friendly to owners and likes walking around",
+        "location" : "Kisumu",
+        "price": "Kshs. 25,000",
+        "sellor_contact" : "0725486539",
+        "reviews": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+      }
+      
+      
+    ]
+  }

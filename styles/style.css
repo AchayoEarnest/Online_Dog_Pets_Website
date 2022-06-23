@@ -122,6 +122,7 @@ li > a:hover {
     margin-bottom: 20px;
     border-radius: 12px;
     padding: 10px;
+    padding-left: 30px;
 }
 
 #dog_card {
@@ -148,5 +149,56 @@ li > a:hover {
     border-top-right-radius: 12px;
 }
 
+.seller_btn {
+    background-color: rgb(255, 136, 0);
+    color: white;
+    border-radius: 7px;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.p_description {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.seller_btn:hover{
+    background-color: rgb(243, 164, 73);
+}
+
+
+#footer_section {
+    height: 400px;
+    background-color: black;
+    padding-top: 50px;
+}
+
+.footer_flex_container {
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer_flex_container > ul > li > a {
+    color: white;
+}
+
+
+#footer_section > .footer_flex_container > ul > li {
+    margin-top: 20px;   
+
+}
+
+.privacy-footer {
+    color:  rgb(255, 136, 0);
+}
+
+.end_note {
+    padding-top: 30px;
+    border-top: 1px solid grey;
+
+}
 
 
