@@ -115,11 +115,11 @@ li > a:hover {
     text-align: center;
 }
 
-#output {
+#dog_market {
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 250px;
     border-radius: 12px;
     padding: 10px;
     padding-left: 30px;
@@ -167,8 +167,9 @@ li > a:hover {
 
 
 #comments_container {   
-    background-color: rgb(255, 136, 0);
+    background-color: rgb(243, 164, 73);
     display: flex;
+    position: relative;
 }
 
 #obutula, #signup{
@@ -230,6 +231,15 @@ form > textarea {
     height: 400px;
     background-color: black;
     padding-top: 50px;
+    
+}
+
+#footer_dogs{
+    position: absolute;
+    float: inline-end;
+    width: 100%;
+    margin-top: -213px;
+    z-index: -1;
 }
 
 .footer_flex_container {

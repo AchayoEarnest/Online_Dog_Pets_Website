@@ -11,7 +11,7 @@ function getText(){
       output += `
               <ul>
                 <li><h4>${comment.name}<h4></li>
-                <li>${comment.review}</li>
+                <li style="marginBottom:5px;">${comment.review}</li>
               </ul>
       `;
     });
