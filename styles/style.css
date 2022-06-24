@@ -116,6 +116,11 @@ li > a:hover {
     text-align: center;
 }
 
+#about_dogs > h2{
+   color: rgb(255, 136, 0);
+   padding-bottom: 5px;
+}
+
 #dog_market {
     margin-left: 10%;
     margin-right: 10%;
@@ -265,5 +270,7 @@ form > textarea {
     padding-top: 30px;
     border-top: 1px solid grey;
 }
+
+
 
 
