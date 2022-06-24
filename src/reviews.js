@@ -3,10 +3,10 @@ document.getElementById('submit-btn').addEventListener('click', ()=>{window.aler
 
 
 function getText(){
-  fetch('../comments.json')
+  fetch('comments.json')
   .then((res)=>(res.json()))
   .then((data)=>{
-    let output = '<h1>Customers Comments</h1>'
+    let output = '<h2 style="color: white;">Customers Comments</h2>'
     data.forEach(function(comment){
       output += `
               <ul>
