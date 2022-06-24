@@ -171,7 +171,7 @@ li > a:hover {
     display: flex;
 }
 
-#obutula{
+#obutula, #signup{
     height: 80%;
     border: 3px solid white;
     margin: 40px 40px 40px 40px;
@@ -186,8 +186,15 @@ form {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    width: 500px;
-    border-radius: 12px;
+    width: 30%;
+}
+
+#signup {
+    margin: 40px 40px 40px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 30%;
 }
 
 form > input, button {
@@ -195,6 +202,19 @@ form > input, button {
     border-radius: 12px;
     padding-left: 5px;
 }
+
+#signup {
+    padding: 10px;
+}
+
+#signup > input, button {
+    height: 40px;
+    border-radius: 12px;
+    padding-left: 5px;
+}
+
+
+
 
 form > textarea {
     height: 200px;
