@@ -7,8 +7,12 @@ This is a pet dogs website that will help customer who likes pet dogs companion 
 ******
 
 ## SCREENSHOTS
- ![image](./assets/)
- ![image](./assets/)
+ ![image](./assets/images/1.png)
+ ![image](./assets/images/2.png)
+ ![image](./assets/images/3.png)
+ ![image](./assets/images/4.png)
+ ![image](./assets/images/5.png)
+
 
 
 ********
