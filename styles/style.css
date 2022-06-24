@@ -162,10 +162,10 @@ li > a:hover {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
 .seller_btn:hover{
     background-color: rgb(243, 164, 73);
 }
-
 
 #comments_container {   
     background-color: rgb(243, 164, 73);
@@ -215,9 +215,6 @@ form > input, button {
     padding-left: 5px;
 }
 
-
-
-
 form > textarea {
     height: 200px;
     border-radius: 12px;
@@ -225,8 +222,6 @@ form > textarea {
     padding-top: 10px;
 
 }
-
-
 
 #footer_section {
     height: 400px;
@@ -269,7 +264,6 @@ form > textarea {
 .end_note {
     padding-top: 30px;
     border-top: 1px solid grey;
-
 }
 
 
