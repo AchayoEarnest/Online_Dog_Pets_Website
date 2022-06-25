@@ -12,6 +12,7 @@ This is a pet dogs website that will help customer who likes pet dogs companion 
  ![image](./assets/images/3.png)
  ![image](./assets/images/4.png)
  ![image](./assets/images/5.png)
+ ![image](./assets/images/6.png)
 
 
 
