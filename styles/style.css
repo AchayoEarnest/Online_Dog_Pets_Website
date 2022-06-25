@@ -181,6 +181,11 @@ li > a:hover {
     border-top-right-radius: 12px;
 }
 
+#breed-type {
+    color: rgb(255, 136, 0);
+}
+
+
 .seller_btn {
     background-color: rgb(255, 136, 0);
     color: white;
@@ -189,6 +194,7 @@ li > a:hover {
     margin-top: 5px;
     height: 35px;
     border-width: 1px;
+    font-weight: bold;
 }
 
 .p_description {
@@ -242,8 +248,6 @@ form > input, button {
     padding-left: 5px;
     border-width: 1px;
 }
-
-
 
 #signup {
     padding: 10px;
