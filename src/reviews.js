@@ -1,7 +1,12 @@
+
+//this event listener will activate DOM content loader to load getText function
 document.addEventListener("DOMContentLoader", getText)
-document.getElementById('submit-btn').addEventListener('click', ()=>{window.alert(`Thank you for your feedback We will post your comment after review!`)})
 
+//The below code will respond when the user clicks submit button 
+document.getElementById('submit-btn').addEventListener('click', ()=>{
+  window.alert(`Thank you for your feedback We will post your comment after review!`)});
 
+//the code below will be activated once the DOMContentLoaded getText function activared
 function getText(){
   fetch('comments.json')
   .then((res)=>(res.json()))
@@ -20,4 +25,12 @@ function getText(){
   });  
 }
 
-getText()
+getText();
+
+
+
+
+
+
+
+
