@@ -105,12 +105,12 @@ li > a:hover {
     
 }
 
-.search{
+#search{
     padding-top: 20px;
     
 }
 
-.search-txt{
+#search-txt{
     height: 50px;
     border-radius: 25px;
     border-width: 1px;
