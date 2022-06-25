@@ -8,15 +8,15 @@ const message = document.getElementById('comment')
 
 button.addEventListener('click', displayReview);
 
-
+//This function will add comments at the top of the messagebox
 function displayReview(){
   const newReview = document.createElement("h3");
-  newReview.innerText = namebox.value;
+  newReview.textContent = namebox.value;
   message.appendChild(newReview);
   namebox.value = "";
 
   const newComment =document.createElement("p");
-  newComment.innerHTML = textbox.value;
+  newComment.textContent = textbox.value;
   message.appendChild(newComment);
   textbox.value = "";
 }

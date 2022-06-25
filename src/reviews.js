@@ -6,6 +6,10 @@ document.addEventListener("DOMContentLoader", getText)
 document.getElementById('submit-btn').addEventListener('click', ()=>{
   window.alert(`Thank you for your feedback We will post your comment after review!`)});
 
+document.getElementById('submit-btn2').addEventListener('click', ()=>{
+  window.alert(`Thank you for signing up for our page. Please stay tuned for email updates!`)});
+  
+
 //the code below will be activated once the DOMContentLoaded getText function activared
 function getText(){
   fetch('comments.json')
