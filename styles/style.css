@@ -105,6 +105,32 @@ li > a:hover {
     
 }
 
+.search{
+    padding-top: 20px;
+    
+}
+
+.search-txt{
+    height: 50px;
+    border-radius: 25px;
+    border-width: 1px;
+    animation-name: search;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    font-size: 16px;
+    padding-left: 10px;
+    opacity: 65%;
+    
+}
+@keyframes search{
+    from {width:390px;font-size: 14px;}
+    to {width: 400px; font-size: 15px;}
+}
+.search-txt:hover{
+    width: 500px;
+}
+
 #about_dogs {
     margin-left: 5%;
     margin-right: 5%;
@@ -274,7 +300,3 @@ form > textarea {
     padding-top: 30px;
     border-top: 1px solid grey;
 }
-
-
-
-
