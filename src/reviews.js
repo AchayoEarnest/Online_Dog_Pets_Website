@@ -36,7 +36,7 @@ var textbox = document.getElementById("textbox");
 var button = document.getElementById("submit-btn");
 var nameElem = document.getElementById("nametext");
 
-// this code sill add the h3 element containing the name of the person posting
+// this code will add the h3 element containing the name of the person posting
 button.addEventListener("click", function(){
     var name = document.createElement("h")
     name.innerHTML = nameElem.value;
@@ -44,7 +44,7 @@ button.addEventListener("click", function(){
     messages.appendChild(name);
     nameElem.value =""
 
-// this code sill add the parahgraph containing the message of the person posting
+// this code will add the parahgraph containing the message of the person posting
     var newMessage = document.createElement("p");
     newMessage.style.listStyle="none";
     newMessage.style.height = "auto";
