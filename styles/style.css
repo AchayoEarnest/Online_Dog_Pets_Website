@@ -141,6 +141,7 @@ li > a:hover {
     border-radius: 12px;
     padding: 10px;
     text-align: center;
+    box-shadow: 2px 5px 5px rgb(211, 206, 206);
 }
 
 #about_dogs > h2{
@@ -172,6 +173,7 @@ li > a:hover {
     background-color: black;
     margin-bottom: 10px;
     border-radius: 12px;
+    
 }
 
 #image_sect >img {
