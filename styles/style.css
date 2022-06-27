@@ -172,8 +172,14 @@ li > a:hover {
     height: 300px;
     background-color: black;
     margin-bottom: 10px;
-    border-radius: 12px;
-    
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;  
+}
+
+#image_sect > img:hover {
+    opacity: 80%; 
+    box-shadow: 5px 5px rgb(224, 224, 224);
+    transition-delay: 5ms;  
 }
 
 #image_sect >img {
