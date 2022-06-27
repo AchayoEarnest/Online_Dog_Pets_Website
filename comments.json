@@ -17,7 +17,7 @@
     {
       "id": 1,
       "name" : "King Anonimous",
-      "review": "My dog died 3 months ago due to accident caused by a careless drunk driver. I have been feeling sad since then. After going through this site, i am now a pride owner of Chiuwawa"          
+      "review": "My dog died 3 months ago due to accident caused by a careless drunk driver. I have been feeling sad since then. After going through this site, i am now a pride owner of Chiwawa"          
     },
 
     {
@@ -28,28 +28,20 @@
       {
         "id": 2,
         "name": "Fredrick Oloo",
-        "review": "I came to Kenya from US one year ago. I was lonely for quite a while untill i founs my Chiwawa from this site. We enjoy every moment living as a family"          
+        "review": "I came to Kenya from US one year ago. I was lonely for quite a while untill i found my Chiwawa from this site. We enjoy every moment living as a family"          
       },
       {
         "id": 3,
         "name": "Michael Ruto",
-        "review": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot. I am looking forward to get the best mans frieng ever"          
+        "review": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot. I am looking forward to get the best mans friend ever"          
       },
-      {
-        "id": 1,
-        "name" : "Supercalifragilisticexpialidocous Guy",
-        "review": "My dog died 3 months ago due to accident caused by a careless drunk driver. I have been feeling sad since then. After going through this site, i am now a pride owner of Chiuwawa"          
-      },
+   
       {
         "id": 1,
         "name" : "Mr Bombastic",
-        "review": "I have been looking for a better site in Kenya purchase a pet companion. Finally this will help alot"          
+        "review": "I met a seller from this site last week. We negotiated well and i now have a Terrier spits breed "          
       },
-      {
-        "id": 2,
-        "name": "Comrade Hero",
-        "review": "I came to Kenya from US one year ago. I was lonely for quite a while untill i founs my Chiwawa from this site. We enjoy every moment living as a family"          
-      },
+     
       {
         "id": 3,
         "name": "Cahayo Techlinks",
@@ -59,7 +51,6 @@
         "id": 1,
         "name" : "Bonified Venture",
         "review": "Awesome site!"          
-      }
-  
+      } 
       
   ]
